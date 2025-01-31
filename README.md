@@ -1,2 +1,2 @@
-# new_method_of_digital_didactics
-A school project to create textbooks using QR technologies that can be used to visualize textual information on difficult-to-understand topics.
+# Новый метод цифровой дидактики
+Школьный проект по созданию учебников с использованием QR-технологий, которые могут быть использованы для визуализации текстовой информации по сложным для понимания темам.
